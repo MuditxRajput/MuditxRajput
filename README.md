@@ -1,8 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FV-bhoy&psig=AOvVaw3PIVC5neRz8D0vP_Jep0bG&ust=1693058569570000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJiC2Of894ADFQAAAAAdAAAAABAD)]
 
 <h1 align="center">Hi 👋, I'm Mudit Rajput</h1>
 <h3 align="center">Navigating the World of Technology and Web Development: Passion for Continuous Learning</h3>
-<img align = "right" alt ="coding" width ="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw2DvRsms0I6yW32ChseuoOM&ust=1693058481916000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNCMh77894ADFQAAAAAdAAAAABAD";
+<img align = "right" alt ="coding" width ="400" src ="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966";
 - 🌱 I’m currently learning **Php, Javascript**
 
 - 💬 Ask me about **Html ,css ,Javascript, Php , jQuery**
