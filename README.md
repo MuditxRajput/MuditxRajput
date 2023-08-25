@@ -1,3 +1,4 @@
+![logo](https://github.com/MuditxRajput/MuditxRajput/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Mudit Rajput</h1>
 <h3 align="center">Navigating the World of Technology and Web Development: Passion for Continuous Learning</h3>
 <img align ="right" width ="400" src = "https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
