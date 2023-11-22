@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Php, Javascript, Tailwind and React**
 
-- 💬 Ask me about **HTML, CSS, Javascript, PHP, jQuery, React,Tailwind**
+- 💬 Ask me about **HTML, CSS, Javascript, PHP, jQuery, React, Tailwind**
 
 - 📫 How to reach me **muditrajputpersonal@gmail.com**
 
