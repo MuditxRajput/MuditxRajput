@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **muditrajputpersonal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xu3pBdXqoMEaJMnFbeMZREjJJoVezXuu/view?usp=sharing](https://drive.google.com/file/d/1Xu3pBdXqoMEaJMnFbeMZREjJJoVezXuu/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/18iEXX0tGb9bi8LfzAy6cQ1Ns9Ai7o7Sv/view?usp=sharing
 - ⚡ Fun fact **Chilling with friends**
 
 <h3 align="left">Connect with me:</h3>
