@@ -1,6 +1,6 @@
 ![logo](https://github.com/MuditxRajput/MuditxRajput/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Mudit Rajput</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muditxrajput&label=Profile%20views&color=0e75b6&style=flat" alt="muditxrajput" /> </p>
 
@@ -9,19 +9,19 @@
 <p align="left"> <a href="https://twitter.com/muditrajput_" target="blank"><img src="https://img.shields.io/twitter/follow/muditrajput_?logo=twitter&style=for-the-badge" alt="muditrajput_" /></a> </p>
 <img align ="right" width ="400" src = "https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-- 🔭 I’m currently working on [Aktu Quantum](https://www.aktu-quantum.online/)
+- 🔭 I’m currently working on [Post Target](https://cross-posting-web.vercel.app/)
 
-- 🌱 I’m currently learning **Java Full stack**
+- 🌱 I’m currently learning **Aws, advanced backend**
 
-- 👯 I’m looking to collaborate on [Aktu Quantum](https://www.aktu-quantum.online/)
+- 👯 I’m looking to collaborate on [Post Target](https://cross-posting-web.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://mudit-rajput-portfolio.vercel.app/](https://mudit-rajput-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://muditxrajput.vercel.app/](https://muditxrajput.vercel.app/)
 
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDb and projects**
+- 💬 Ask me about **React.js, Node.js, Nextjs, Aws, Express.js, MongoDb and projects**
 
 - 📫 How to reach me **muditrajputpersonal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18iEXX0tGb9bi8LfzAy6cQ1Ns9Ai7o7Sv/view?usp=sharing](https://drive.google.com/file/d/18iEXX0tGb9bi8LfzAy6cQ1Ns9Ai7o7Sv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PwLeyPmdqVFVw5JOe3pJ3WYHW60wmrhT/view?usp=sharing](https://drive.google.com/file/d/1PwLeyPmdqVFVw5JOe3pJ3WYHW60wmrhT/view?usp=sharing)
 
 - ⚡ Fun fact **Call me at night**
 
