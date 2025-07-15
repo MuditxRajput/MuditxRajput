@@ -15,15 +15,15 @@
 
 - 👯 I’m looking to collaborate on [Post Target](https://cross-posting-web.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://muditxrajput.vercel.app/](https://muditxrajput.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://muditrajput.vercel.app/)
 
 - 💬 Ask me about **React.js, Node.js, Nextjs, Aws, Express.js, MongoDb and projects**
 
 - 📫 How to reach me **muditrajputpersonal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PwLeyPmdqVFVw5JOe3pJ3WYHW60wmrhT/view?usp=sharing](https://drive.google.com/file/d/1PwLeyPmdqVFVw5JOe3pJ3WYHW60wmrhT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-bnJMsmsxH4G6-kH_oIR_0-PcFWMtR4L/view?usp=sharing)
 
-- ⚡ Fun fact **Call me at night**
+- ⚡ Fun fact **Building and shiping MVPs is actually fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
