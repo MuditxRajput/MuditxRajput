@@ -1,45 +1,172 @@
-![logo](https://github.com/MuditxRajput/MuditxRajput/blob/main/banner.gif)
-<h1 align="center">Hi 👋, I'm Mudit Rajput</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muditxrajput&label=Profile%20views&color=0e75b6&style=flat" alt="muditxrajput" /> </p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mudit%20Rajput&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Shipper&descAlignY=58&descAlign=50" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muditxrajput" alt="muditxrajput" /></a> </p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+products+%F0%9F%9A%80;React+%7C+Node.js+%7C+Next.js+%7C+AWS;Shipping+MVPs+that+actually+work+%E2%9A%A1;Open+to+collabs+%E2%80%94+let%27s+build+something!" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/muditrajput_" target="blank"><img src="https://img.shields.io/twitter/follow/muditrajput_?logo=twitter&style=for-the-badge" alt="muditrajput_" /></a> </p>
-<img align ="right" width ="400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc0dWN0cjhpcm9keDVhYW5ja2tkb2NpdGZ5eTBzeTE4bGJ2b3o1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+<br/>
 
-- 🔭 I’m currently working on [Post Target](https://cross-posting-web.vercel.app/)
-
-- 🌱 I’m currently learning **Aws, advanced backend**
-
-- 👯 I’m looking to collaborate on [Post Target](https://cross-posting-web.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://muditrajput.vercel.app/)
-
-- 💬 Ask me about **React.js, Node.js, Nextjs, Aws, Express.js, MongoDb and projects**
-
-- 📫 How to reach me **muditrajputpersonal@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-bnJMsmsxH4G6-kH_oIR_0-PcFWMtR4L/view?usp=sharing)
-
-- ⚡ Fun fact **Building and shiping MVPs is actually fun**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muditrajput_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muditrajput_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mudit-rajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mudit-rajput/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22663439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22663439" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/react.build__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/react.build__/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mudit_rajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mudit_rajput/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mudit_rajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mudit_rajput/" height="30" width="40" /></a>
+<!-- Social badges -->
+<p>
+  <a href="https://twitter.com/muditrajput_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mudit-rajput/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muditrajputpersonal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://muditrajput.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1-bnJMsmsxH4G6-kH_oIR_0-PcFWMtR4L/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=muditxrajput&label=Profile+Views&color=a78bfa&style=flat-square" alt="Profile Views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muditxrajput&show_icons=true&locale=en&layout=compact" alt="muditxrajput" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muditxrajput&show_icons=true&locale=en" alt="muditxrajput" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muditxrajput&" alt="muditxrajput" /></p>
+## 🧠 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+```javascript
+const mudit = {
+  location: "India 🇮🇳",
+  role: "Full Stack Web Developer",
+  currentProject: "Post Target — cross-posting made effortless",
+  learning: ["AWS", "Advanced Backend Architecture"],
+  askMeAbout: ["React.js", "Node.js", "Next.js", "Express", "MongoDB", "AWS"],
+  funFact: "Building and shipping MVPs is actually fun ⚡",
+  openTo: "Collaborations, freelance, and cool side projects"
+};
+```
+
+</td>
+<td valign="top" align="center" width="40%">
+  <img width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc0dWN0cjhpcm9keDVhYW5ja2tkb2NpdGZ5eTBzeTE4bGJ2b3o1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Current Focus
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/🔭%20Working%20On-Post%20Target-a78bfa?style=flat-square" />
+      <br/>A cross-posting platform to publish content across multiple social platforms simultaneously.
+      <br/><a href="https://cross-posting-web.vercel.app/">→ Live Demo</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/🌱%20Learning-AWS%20%26%20Advanced%20Backend-38bdf8?style=flat-square" />
+      <br/>Diving deep into cloud infrastructure, serverless architecture, and scalable backend patterns.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+
+### 🧪 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muditxrajput&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditxrajput&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditxrajput&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muditxrajput&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditxrajput&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+  | Platform | Link |
+  |----------|------|
+  | 🐦 Twitter | [@muditrajput_](https://twitter.com/muditrajput_) |
+  | 💼 LinkedIn | [mudit-rajput](https://www.linkedin.com/in/mudit-rajput/) |
+  | 💻 Portfolio | [muditrajput.vercel.app](https://muditrajput.vercel.app/) |
+  | 📧 Email | muditrajputpersonal@gmail.com |
+  | 🧩 LeetCode | [mudit_rajput](https://leetcode.com/u/mudit_rajput/) |
+  | 📚 Stack Overflow | [Profile](https://stackoverflow.com/users/22663439) |
+  | 🌿 GeeksForGeeks | [mudit_rajput](https://www.geeksforgeeks.org/user/mudit_rajput/) |
+  | 📸 Instagram | [@react.build__](https://www.instagram.com/react.build__/) |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Building and shipping MVPs is actually fun"* ⚡
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
