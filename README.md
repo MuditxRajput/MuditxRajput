@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muditxrajput" alt="muditxrajput" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muditrajput_" target="blank"><img src="https://img.shields.io/twitter/follow/muditrajput_?logo=twitter&style=for-the-badge" alt="muditrajput_" /></a> </p>
-<img align ="right" width ="400" src = "https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align ="right" width ="400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc0dWN0cjhpcm9keDVhYW5ja2tkb2NpdGZ5eTBzeTE4bGJ2b3o1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
 - 🔭 I’m currently working on [Post Target](https://cross-posting-web.vercel.app/)
 
